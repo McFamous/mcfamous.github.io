@@ -1,19 +1,9 @@
 {
     "applinks": {
         "apps": [],
-        "details": [
-            {
-                "appID": "XBZYSV6RQA.ru.thunder-soft.hyperdev",
-                "paths": ["*"]
-            },
-            {
-                "appID": "AD92BPDANV.ru.hyperhub.hyper",
-                "paths": ["*"]
-            },
-            {
-                "appID": "AD92BPDANV.ru.hyperhub.hyper.debug",
-                "paths": ["*"]
-            }
-        ]
+        "details": [{
+            "appID": "XBZYSV6RQA.ru.thunder-soft.hyperdev",
+            "paths": ["*"]
+        }]
     }
 }
